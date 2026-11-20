@@ -13,9 +13,9 @@ define('APP_VERSION', '1.0.0');
 // Database Configuration
 define('DB_HOST', '127.0.0.1');
 define('DB_PORT', '3306');
-define('DB_NAME', 'warehouse_management');
-define('DB_USER', 'root');
-define('DB_PASS', '');
+define('DB_NAME', 'synergy1_derricklim_warehouse_manage');
+define('DB_USER', 'synergy1_yenping');
+define('DB_PASS', 'R.zb0ZwEuGZ}*fW2');
 define('DB_CHARSET', 'utf8mb4');
 
 // System Timezone
